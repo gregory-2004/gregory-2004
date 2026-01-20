@@ -2,10 +2,7 @@
 ## Predicted first class with honours
 
 ## What I'm working on
-- Machine learning pipelines for clinical datasets (imbalance handling, threshold tuning, evaluation beyond accuracy)
-- Biosignal processing (ECG / EEG / EMG) and artifact-aware analysis
-- Imaging and instrumentation work (nuclear medicine, image processing, QA/phantoms)
-- CAD + engineering drawings in Fusion 360 (BS 8888-style deliverables)
+- A handheld biosensor to detect malaria
 
 ## Featured projects
 - **Stroke Prediction (ML)** — scikit-learn + PyTorch pipelines for imbalanced clinical data
