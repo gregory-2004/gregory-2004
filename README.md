@@ -22,5 +22,4 @@ Python • MATLAB • R • scikit-learn • PyTorch • scikit-image • Jupyte
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/gregor-cunningham-3a21a2353/
-- GitHub: https://github.com/gregory-2004
 
