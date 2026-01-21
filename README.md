@@ -8,16 +8,16 @@ MENg Biomedical Engineering Student at the University of Glasgow, predicted firs
 
 ## Programming Languages & Platforms
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> **Python** — ML pipelines, signal processing, image analysis  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="20"/> **MATLAB** — EEG/ECG/EMG analysis, filtering, PSD/coherence  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="20"/> **R** — statistics, exploratory data analysis  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="20"/> **PyTorch** — neural networks, custom training loops  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="20"/> **scikit-learn** — classical ML, pipelines, evaluation  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20"/> **Jupyter** — prototyping, visualisation, reporting  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="20"/> **LaTeX** — technical reports, academic writing  
-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mathworks.svg" height="20"/> **Simulink** — system modelling, control & signal-flow simulation  
-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/autodesk.svg" height="20"/> **Fusion 360** — CAD assemblies, engineering drawings (BS 8888)  
-- **ImageJ** — medical image analysis, segmentation, quantification
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) — ML pipelines, signal processing, image analysis
+- ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) — EEG/ECG/EMG analysis, filtering, PSD/coherence
+- ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) — statistics, exploratory data analysis
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) — neural networks, custom training loops
+- ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) — classical ML, pipelines, evaluation
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) — prototyping, visualisation, reporting
+- ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) — technical reports, academic writing
+- ![Simulink](https://img.shields.io/badge/Simulink-FF9900?style=flat-square&logo=mathworks&logoColor=white) — system modelling, control & signal-flow simulation
+- ![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?style=flat-square&logo=autodesk&logoColor=white) — CAD assemblies, engineering drawings
+- ![ImageJ](https://img.shields.io/badge/ImageJ-6A1B9A?style=flat-square) — medical image analysis, segmentation, quantification
 
 ## What I'm working on
 - A handheld biosensor to detect malaria
