@@ -1,6 +1,7 @@
 # Gregor Cunningham
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gregor%20Cunningham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregor-cunningham-3a21a2353/)
+[![Email](https://img.shields.io/badge/Email-gre117gor%40hotmail.com-6D4AFF?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gre117gor@hotmail.com)
 
 ## About
 
