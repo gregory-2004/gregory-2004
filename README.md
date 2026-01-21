@@ -10,7 +10,11 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="20"/> **PyTorch** — neural networks, custom training loops  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="20"/> **scikit-learn** — classical ML, pipelines, evaluation  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20"/> **Jupyter** — prototyping, visualisation, reporting  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="20"/> **LaTeX** — technical reports, academic writing
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="20"/> **LaTeX** — technical reports, academic writing  
+- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mathworks.svg" height="20"/> **Simulink** — system modelling, control & signal-flow simulation  
+- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/autodesk.svg" height="20"/> **Fusion 360** — CAD assemblies, engineering drawings (BS 8888)  
+- **ImageJ** — medical image analysis, segmentation, quantification
+
 
 ## What I'm working on
 - A handheld biosensor to detect malaria
