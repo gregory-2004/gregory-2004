@@ -1,6 +1,10 @@
-# MENg Biomedical Engineering
+# Gregor Cunningham
 
-- Predicted first class with honours
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gregor%20Cunningham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregor-cunningham-3a21a2353/)
+
+## About
+
+MENg Biomedical Engineering Student at the University of Glasgow, predicted first class with honours. I am interested in Medical Imaging, Medical Devices and Ultrasound Technology.
 
 ## Programming Languages & Platforms
 
@@ -15,7 +19,6 @@
 - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/autodesk.svg" height="20"/> **Fusion 360** — CAD assemblies, engineering drawings (BS 8888)  
 - **ImageJ** — medical image analysis, segmentation, quantification
 
-
 ## What I'm working on
 - A handheld biosensor to detect malaria
 
@@ -29,6 +32,5 @@
 ## Clinical exposure
 Clinical observership and imaging-centre shadowing within NHS Greater Glasgow & Clyde (neurology, neuroradiology, neurophysiology, MRI/fMRI, QA/phantoms, MDTs).
 
-## Links
-- LinkedIn: https://www.linkedin.com/in/gregor-cunningham-3a21a2353/
+
 
