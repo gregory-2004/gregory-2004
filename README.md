@@ -1,17 +1,16 @@
 # MENg Biomedical Engineering
-## Predicted first class with honours
+
+- Predicted first class with honours
 
 ## Programming Languages & Platforms
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX"/>
-</p>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> **Python** — ML pipelines, signal processing, image analysis  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="20"/> **MATLAB** — EEG/ECG/EMG analysis, filtering, PSD/coherence  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="20"/> **R** — statistics, exploratory data analysis  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="20"/> **PyTorch** — neural networks, custom training loops  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="20"/> **scikit-learn** — classical ML, pipelines, evaluation  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20"/> **Jupyter** — prototyping, visualisation, reporting  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="20"/> **LaTeX** — technical reports, academic writing
 
 ## What I'm working on
 - A handheld biosensor to detect malaria
